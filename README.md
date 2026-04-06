@@ -1,6 +1,6 @@
-FinData Systems - Zorvyn Backend Developer Assignment
+FinData Systems
 
-This project is a high-performance **Full-Stack Finance Data Processing and Access Control System** developed for the Zorvyn Backend Developer Intern assignment. It demonstrates robust backend architecture, role-based access control (RBAC), and financial analytics data processing.
+This project is a high-performance **Full-Stack Finance Data Processing and Access Control System** . It demonstrates robust backend architecture, role-based access control (RBAC), and financial analytics data processing.
 
 ---
 
@@ -110,6 +110,4 @@ Future Improvements
 - **Unit Testing**: 100% logic coverage for record mutation services.
 
 ---
-
-**Developed for the Zorvyn Backend Internship Assignment.** 🚀
 
